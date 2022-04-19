@@ -1,0 +1,37 @@
+git config --global user.name "fulanoDeTal" (inserir seu usuário do gitHub no git bash)
+
+git config --globa user.email fulanodetal@exemplo.br (inserir seu email usado no gitHub)
+
+git config user.name (saber se está logado)
+
+git init (iniciar um repositório git em uma pasta)
+
+git status (saber quais arquivos podem ser commitados)
+
+git add nomeDoArquivo (preparar arquivo para ser commitado)
+
+git add . (preparar arquivos para serem commitados)
+
+git rm --cached nomeDoArquivo (colocar ou retirar arquivo para ser commitado)
+
+git commit -m "mensagem que identifica o commit" (fazer commit localmente)
+
+git log (ver todos os commits que foram feitos)
+
+git branch nomeDaBranch (criar uma nova branch)
+
+git branch (listar todas as branchs existentes)
+
+git checkout nomeDaBranch (mudar de branch)
+
+git merge nomeDaBranch (mesclar 2 branchs Ex: estou em uma branch e dou o git merge em outra, as duas ficarão mescladas)
+
+git remote add origin urlDoRepositorio criado (adiciona o conteúdo do repositório remoto com o nome origin)
+
+git remote (verifica, lista os repositórios remotos)
+
+git push -u origin main (manda todo o conteúdo do seu repositório local para o repositório remoto, mas só da branch main)
+
+git push nomeDaBranch (manda o conteúdo da branch para o remoto)
+
+git clone urlDoRepositorioRemoto público (clona um repositório remoto)
