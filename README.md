@@ -1,3 +1,3 @@
 # dio-desafio-github
-## Link útil para sobre Markdown
+## Link útil sobre Markdown
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
